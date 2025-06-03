@@ -2,7 +2,7 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
 import ProductImage from './ProductImage';
-import AboutProduct from './aboutProduct';
+import AboutProduct from './AboutProduct';
 import ProductInfo from './ProductInfo';
 import ProductitemDetails from './ProductItemDetails';
 
